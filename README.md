@@ -90,9 +90,11 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as client_socket:
 
 ## OUTPUT:
 ### server:
-![alt text](image.png)
+<img width="703" height="226" alt="image" src="https://github.com/user-attachments/assets/158e6396-cd47-45eb-a632-48ff3be9efef" />
+
 ### client:
-![alt text](image-1.png)
+<img width="703" height="226" alt="image" src="https://github.com/user-attachments/assets/ddc4940d-ee91-4dd0-b09b-5720ecb84304" />
+
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
 successfully created and executed.
